@@ -14,8 +14,8 @@ function Header() {
 
         <nav className="pf-nav">
           <a href="/">홈</a>
-          <a href="/">농장 리스트</a>
-          <a href="/">소개</a>
+          <a href="/">이벤트</a>
+          <a href="/">고객지원</a>
         </nav>
 
         <div className="pf-utils">
